@@ -11,8 +11,7 @@ $ conda activate <environment_name>
 2. Clone project to the local machine
 In the terminal, navigate to the location where the project folder has to be created. Then enter the git command to clone the project:
 $ git clone https://github.com/pavanaipl/drdo_task.git
-Once cloned, change the directory to foodmatesbed
-$ cd foodmatesbed
+
 
 3. Install the project requirements
 Install the python packages listed in the requirements.txt file. Enter the following command in the terminal:
